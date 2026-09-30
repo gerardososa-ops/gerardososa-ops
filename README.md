@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Dr. Gerardo Sosa Zuno 👋
+### M.D. | M.Ed. | HealthTech & AI Product Strategist | Clinical Education Consultant
 
-<!--
-**gerardososa-ops/gerardososa-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physician (M.D. Class of 2004) and Master in Educational Technology (M.Ed.) specializing in the intersection of **AI Architecture, Clinical Simulation, and Competency-Based Medical Education (CBME)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Core Expertise & Technical Architecture
+- **AI Evaluation Architectures:** Designing `LLM-as-a-Judge` engines anchored to Clinical Practice Guidelines (GPC) via Few-Shot Prompting.
+- **Clinical Simulation & Avatars:** Building real-time Embodied Conversational Agents (ECAs) for OSCE/ECOE stations and Interprofessional Education (IPE).
+- **Data Engineering in Medical Ed:** Generating structured JSON evaluation schemas mapped to Entrustable Professional Activities (EPAs).
+- **Educational Technology Strategy:** 15+ years in academic leadership, university teaching, and B2B medical technology adoption (ADInstruments/QUIASA).
+
+---
+
+### 📂 Highlighted Technical Repositories
+1. **[LLM-as-a-Judge-Medical-Evaluation](./LLM-as-a-Judge-Medical-Evaluation)**: Framework for automated clinical assessment using Few-Shot Prompts and GPC grounding.
+2. **[Clinical-AI-Simulation-Prompts](./Clinical-AI-Simulation-Prompts)**: Prompt design templates for patient-avatar interactions and debriefing rubrics (*With Good Judgment*).
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/gerardo-sosa-zuno](https://www.linkedin.com/in/gerardo-sosa-zuno/)
+- **Email:** dr.gerardososazuno@gmail.com
